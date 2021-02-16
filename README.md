@@ -16,5 +16,5 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Other things I've added
 
-Pytest Tests found in: `./lib/my_functions/tests`
-PipEnv python package and runtime management
+* Pytest Tests found in: `./lib/my_functions/tests`
+* PipEnv python package and runtime management
